@@ -1,12 +1,3 @@
-## Hi there 👋
+# The Bitcoin Learning Center @ Bitcoin Chiang Mai | Thailand
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<a href="https://BitcoinChiangMai.org" target="_blank"><img alt="The Bitcoin Learning Center | Chiang Mai, Thailand" src="https://github.com/BitcoinChiangMai/.github/blob/8089b88563579d6b5a831ee35910a5bd66df0266/profile/images/BLC.jpg"></a>
